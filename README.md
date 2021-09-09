@@ -1,3 +1,3 @@
 # LGMVIP-DataScience
 
-## This repository contains the beginner level projects for LGMVIP-DataScience Internship at LetsGrowMore
+## This repository contains the projects for LGMVIP-DataScience Internship-September 2021 at LetsGrowMore
